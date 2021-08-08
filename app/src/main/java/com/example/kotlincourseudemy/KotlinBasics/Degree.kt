@@ -89,8 +89,8 @@ fun main(args: Array<String>) {
         }
     }
 
-
     while (true){
+
         when {
             degree>=90 -> println("A")
             degree>=80 -> println("A")
